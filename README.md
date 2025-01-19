@@ -16,9 +16,12 @@ Welcome to my GitHub profile! I am a **Python Developer** and **AI/ML Engineer**
 ## 🚀 Skills & Technologies
 
 ### **Programming Languages**
-- Python (Primary)
+- **Python** (Primary language with advanced expertise)
 - SQL
 - JavaScript (Basic)
+- C++ (Basic)
+- HTML5 (Basic)
+- CSS3 (Basic)
 
 ### **Frameworks & Libraries**
 - TensorFlow, PyTorch, Scikit-learn
@@ -29,6 +32,8 @@ Welcome to my GitHub profile! I am a **Python Developer** and **AI/ML Engineer**
 - Jupyter Notebook, Google Colab
 - Power BI, Tableau
 - Git, GitHub
+- VS Code IDE
+- Advanced Excel
 
 ### **Domains**
 - Artificial Intelligence
