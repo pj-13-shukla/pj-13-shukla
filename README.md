@@ -31,6 +31,7 @@ Welcome to my GitHub profile! I am a **Python Developer** and **AI/ML Engineer**
 - Git, GitHub
 
 ### **Domains**
+- Artificial Intelligence
 - Machine Learning & Deep Learning
 - Natural Language Processing
 - Computer Vision
