@@ -71,7 +71,6 @@ Welcome to my GitHub profile! I am a **Python Developer** and **AI/ML Engineer**
 
 ## 📫 Let's Connect
 
-- **Portfolio**: [https://sites.google.com/view/pranjal-shukla/home](https://sites.google.com/view/pranjal-shukla/home)
 - **LinkedIn**: [https://www.linkedin.com/in/pranjal-shukla-8169811b3/](https://www.linkedin.com/in/pranjal-shukla-8169811b3/)
 - **GitHub**: [https://github.com/pj-13-shukla](https://github.com/pj-13-shukla)
 - **Upwork**: [https://www.upwork.com/freelancers/~01912cca7e155506db](https://www.upwork.com/freelancers/~01912cca7e155506db)
